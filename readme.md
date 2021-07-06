@@ -12,39 +12,39 @@ Contributors are welcome and encouraged to suggest fixes, adjustments, notes/war
 
 ## Internal References
 
-Anchors should be defined at each page setting relative to the root folder; the anchor for the "Application" page within the JS Object Reference should be::
+Anchors should be defined at each page setting relative to the root folder; the anchor for the "Application" page within the JS Object Reference should be:
 
-  .. _intro/Application
+	.. _intro/Application
 
-And the anchor for a child item (property, method or example)::
+And the anchor for a child item (property, method or example):
 
-  .. _intro/Application.open
+	.. _intro/Application.open
 
-Then, to link to these items from other pages, we use::
+Then, to link to these items from other pages, we use:
 
-  :ref:`intro/Application`
+	:ref:`intro/Application`
 
-or::
+or:
 
-  :ref:`intro/Application.open`
+	:ref:`intro/Application.open`
 
-If you want different text than the title the anchor points to::
+If you want different text than the title the anchor points to:
 
-  :ref:`Check this out! <intro/Application.open>`
+	:ref:`Check this out! <intro/Application.open>`
 
 ---
 
 ## External Links
 
-These should follow the following structure::
+These should follow the following structure:
 
-  `Link Text <http://www.aenhancers.com>`__
+	`Link Text <http://www.aenhancers.com>`__
 
 ---
 
 ## Tables
 
-Function parameter tables should have following order::
+Function parameter tables should have following order:
 
 |   Parameter   | Type |         Description         |
 | ------------- | ---- | --------------------------- |
