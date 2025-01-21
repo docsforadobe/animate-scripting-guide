@@ -1,2 +1,5 @@
-build/
-ref/
+.vscode
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+site/
