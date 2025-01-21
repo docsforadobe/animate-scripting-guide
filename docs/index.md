@@ -16,10 +16,6 @@ If you need more information, your question may already be answered on the Anima
 Use the search box there, and post a new question if your question hasn't already been answered.
 
 
-## Navigating the Guide
-
-If you're not sure where to start, take a look at the [Overview](./introduction/overview.md) for how scripting works in Adobe Animate, or [Changelog](./introduction/changelog.md) for updates to the scripting API over time.
-
 ## Contribution
 
 This endeavour is primarily community-supported & run; contributors are welcome and encouraged to suggest fixes, adjustments, notes/warnings, and anything else that may help the project.

@@ -23,5 +23,3 @@ The version of Animate.
 #### Type
 
 String; read-only.
-
-## Methods
