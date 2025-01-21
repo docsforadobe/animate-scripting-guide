@@ -9,8 +9,6 @@ extra:
 # Customize navigation
 nav:
     - Home: index.md
-    - Introduction:
-        - Introduction: intro/intro.md
     - Window:
         - Window object: window/window.md
     - Document:
