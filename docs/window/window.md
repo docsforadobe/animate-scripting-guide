@@ -1,15 +1,14 @@
-<a id="window"></a>
-
 # Window object
 
 `window`
 
-**Description**
+#### Description
 
 Is the global object in Animate, providing access to other core features including:
 
-**Parameters**
+#### Parameters
 
-| `app` `an` `animate` `flash` `fl`   | application object     |
-|-------------------------------------|------------------------|
-| `document`                          | active document object |
+|             Parameter             |                    Type                    |     Description     |
+| --------------------------------- | ------------------------------------------ | ------------------- |
+| `app` `an` `animate` `flash` `fl` | [Application object](../app/app.md)        | Current application |
+| `document`                        | [Document object](../document/document.md) | Active document     |

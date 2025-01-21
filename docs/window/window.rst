@@ -7,7 +7,7 @@ Window object
 
 ``window``
 
-**Description**
+#### Description
 
 Is the global object in Animate, providing access to other core features including:
 
